@@ -22,7 +22,7 @@ public class RomanNumeralConverterTest {
     }
 
     @Test
-    public void testConvertRomanNumberal() throws Exception {
+    public void testConvertRomanNumeral() throws Exception {
 
         assertEquals(new Integer(1), romanNumeralConverter.convert(RomanNumeralConverter.I));
         assertEquals(new Integer(5), romanNumeralConverter.convert(RomanNumeralConverter.V));

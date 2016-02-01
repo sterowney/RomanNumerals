@@ -1,7 +1,5 @@
 package com.thebluecabrio.roman.numerals;
 
-import java.util.*;
-
 /**
  * Created by steven.rowney on 25/01/16.
  */
